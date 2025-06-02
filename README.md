@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning Models And building Analysis projects<br>🤝 I’m looking forward to connect with Tech enthusiass around the globe<br>🌱 I’m currently learning Data Sci. Tools and Techniques.<br>💬 Ask me about Trendy techs!<br>⚡ Fun fact:  Strategy and Coordination are loved by every field available.
+🔭 I’m currently working on Machine Learning Models And building Analysis projects<br>🤝 I’m looking forward to connect with Tech enthusiasts around the globe<br>🌱 I’m currently learning Data Sci. Tools and Techniques.<br>💬 Ask me about Trendy techs!<br>⚡ Fun fact:  Strategy and Coordination are loved by every field available.
 
 
 ## 🌐 Socials:
